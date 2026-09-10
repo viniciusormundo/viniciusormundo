@@ -30,7 +30,7 @@ Além da programação, também sou apaixonado por esportes, filosofia e por sem
 - ⚽ Atleta de **Futsal**
 - 🏐 Praticante de **Futvôlei**
 - 🦇 Fã do universo do **Batman**
-- 🏛️ Interessado em filosofia e em **Diógenes, o Cínico**
+- 🏛️ Interessado em filosofia
 - 🚀 Sempre buscando aprender e evoluir
 
 ---
