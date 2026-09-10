@@ -10,7 +10,7 @@
 
 <br>
 
-> 🦇 **"Não é quem eu sou por dentro, mas o que eu faço que me define."**
+> 🦇 **"Não é quem pensam quem eu sou, mas o que eu faço que me define."**
 
 </div>
 
