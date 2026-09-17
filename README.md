@@ -1,3 +1,5 @@
+
+``
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=220&section=header&text=VINÍCIUS%20OLIVEIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20•%20PLAY%20•%20THINK%20•%20EVOLVE&descAlignY=55&descSize=20"/>
@@ -17,6 +19,12 @@
 ---
 
 # 🦇 SOBRE MIM
+
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmF6C_0_rV3tZw03g87p5l55lkBKA39lQWjpdAr2A1lENawAW0BK-e-w&s=10" alt="Batman" width="280px" style="border-radius: 12px;"/>
+</div>
+
+<br>
 
 Olá! 👋 Eu sou **Vinícius Oliveira**.
 
@@ -173,7 +181,7 @@ Um desenvolvedor precisa constantemente questionar:
 <div align="center">
 
 | 🦇 BATMAN | 🏛️ DIÓGENES | ⚽ ESPORTE | 💻 PROGRAMAÇÃO |
-
+|:---:|:---:|:---:|:---:|
 | Disciplina | Questionamento | Persistência | Evolução |
 
 </div>
@@ -260,3 +268,5 @@ Um desenvolvedor precisa constantemente questionar:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=120&section=footer"/>
 
 </div>
+
+```
