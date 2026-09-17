@@ -173,7 +173,7 @@ Um desenvolvedor precisa constantemente questionar:
 <div align="center">
 
 | 🦇 BATMAN | 🏛️ DIÓGENES | ⚽ ESPORTE | 💻 PROGRAMAÇÃO |
-|:---:|:---:|:---:|:---:|
+
 | Disciplina | Questionamento | Persistência | Evolução |
 
 </div>
