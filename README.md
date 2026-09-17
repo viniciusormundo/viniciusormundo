@@ -1,5 +1,3 @@
-
-``
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=220&section=header&text=VINÍCIUS%20OLIVEIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20•%20PLAY%20•%20THINK%20•%20EVOLVE&descAlignY=55&descSize=20"/>
@@ -49,18 +47,14 @@ Além da programação, também sou apaixonado por esportes, filosofia e por sem
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 | 🌐 Desenvolvimento | ⚙️ Ferramentas | 🚀 Aprendizado |
 |:---:|:---:|:---:|
-| HTML | Git | Lógica de Programação |
-| CSS | GitHub | Desenvolvimento Web |
-| JavaScript | VS Code | Estruturas de Dados |
-| Python | Node.js | Boas Práticas |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | 🧠 Lógica de Programação |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | 💻 Desenvolvimento Web |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> | 📐 Estruturas de Dados |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | ✨ Boas Práticas |
 
 </div>
 
@@ -70,9 +64,24 @@ Além da programação, também sou apaixonado por esportes, filosofia e por sem
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusormundo&show_icons=true&theme=transparent&hide_border=true&title_color=F4C430&text_color=FFFFFF&icon_color=F4C430"/>
+<!-- Cards de Estatísticas Principais com Zero-Cache -->
+<a href="https://github.com/viniciusormundo">
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusormundo&show_icons=true&theme=dark&title_color=F4C430&text_color=FFFFFF&icon_color=F4C430&bg_color=000000&hide_border=true&cache_seconds=0" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusormundo&layout=compact&theme=transparent&hide_border=true&title_color=F4C430&text_color=FFFFFF"/>
+<br><br>
+
+<!-- Barra Dinâmica de Linguagens em Tempo Real -->
+<a href="https://github.com/viniciusormundo">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusormundo&layout=donut-example&theme=dark&title_color=F4C430&text_color=FFFFFF&bg_color=000000&hide_border=true&cache_seconds=0" />
+</a>
+
+<br><br>
+
+<!-- Sequência de Commits (Streak) -->
+<a href="https://github.com/viniciusormundo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusormundo&theme=dark&background=000000&border=000000&stroke=F4C430&ring=F4C430&fire=F4C430&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=F4C430&dates=FFFFFF" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -268,5 +277,3 @@ Um desenvolvedor precisa constantemente questionar:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=120&section=footer"/>
 
 </div>
-
-```
