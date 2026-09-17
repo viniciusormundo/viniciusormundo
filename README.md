@@ -214,11 +214,6 @@ Um desenvolvedor precisa constantemente questionar:
 
 <br><br>
 
-<a href="https://github.com/viniciusormundo/2TERMO" target="_blank">
-  <img src="https://img.shields.io/github/last-commit/viniciusormundo/2TERMO?style=flat-square&label=Última%20Atualização&color=F4C430&labelColor=000000&logo=github" alt="Último Commit" />
-  <img src="https://img.shields.io/github/repo-size/viniciusormundo/2TERMO?style=flat-square&label=Tamanho%20do%20Repo&color=F4C430&labelColor=000000" alt="Tamanho do Repo" />
-</a>
-
 </div>
 
 ---
