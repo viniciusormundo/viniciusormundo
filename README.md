@@ -1,3 +1,5 @@
+
+``
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=220&section=header&text=VINÍCIUS%20OLIVEIRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20•%20PLAY%20•%20THINK%20•%20EVOLVE&descAlignY=55&descSize=20"/>
@@ -200,11 +202,22 @@ Um desenvolvedor precisa constantemente questionar:
 
 ---
 
-# 📈 ATIVIDADE NO GITHUB
+# 📈 ATIVIDADE E REPOSITÓRIOS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusormundo&bg_color=000000&color=F4C430&line=F4C430&point=FFFFFF&area=true&hide_border=true"/>
+<p>Acompanhe minhas atividades e entregas do curso no repositório oficial:</p>
+
+<a href="https://github.com/viniciusormundo/2TERMO" target="_blank">
+  <img src="https://img.shields.io/badge/📁_ACESSAR_REPOSITÓRIO-2TERMO-F4C430?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="Repositório 2TERMO" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/viniciusormundo/2TERMO" target="_blank">
+  <img src="https://img.shields.io/github/last-commit/viniciusormundo/2TERMO?style=flat-square&label=Última%20Atualização&color=F4C430&labelColor=000000&logo=github" alt="Último Commit" />
+  <img src="https://img.shields.io/github/repo-size/viniciusormundo/2TERMO?style=flat-square&label=Tamanho%20do%20Repo&color=F4C430&labelColor=000000" alt="Tamanho do Repo" />
+</a>
 
 </div>
 
@@ -272,3 +285,5 @@ Um desenvolvedor precisa constantemente questionar:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:F4C430&height=120&section=footer"/>
 
 </div>
+
+``
