@@ -64,24 +64,19 @@ Além da programação, também sou apaixonado por esportes, filosofia e por sem
 
 <div align="center">
 
-<!-- Cards de Estatísticas Principais com Zero-Cache -->
-<a href="https://github.com/viniciusormundo">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusormundo&show_icons=true&theme=dark&title_color=F4C430&text_color=FFFFFF&icon_color=F4C430&bg_color=000000&hide_border=true&cache_seconds=0" />
-</a>
+  <a href="https://github.com/viniciusormundo">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusormundo&show_icons=true&theme=dark&title_color=F4C430&text_color=FFFFFF&icon_color=F4C430&bg_color=000000&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  
+  <a href="https://github.com/viniciusormundo">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusormundo&layout=compact&theme=dark&title_color=F4C430&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Linguagens Mais Usadas" />
+  </a>
 
-<br><br>
+  <br><br>
 
-<!-- Barra Dinâmica de Linguagens em Tempo Real -->
-<a href="https://github.com/viniciusormundo">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusormundo&layout=donut-example&theme=dark&title_color=F4C430&text_color=FFFFFF&bg_color=000000&hide_border=true&cache_seconds=0" />
-</a>
-
-<br><br>
-
-<!-- Sequência de Commits (Streak) -->
-<a href="https://github.com/viniciusormundo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusormundo&theme=dark&background=000000&border=000000&stroke=F4C430&ring=F4C430&fire=F4C430&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=F4C430&dates=FFFFFF" alt="GitHub Streak" />
-</a>
+  <a href="https://github.com/viniciusormundo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusormundo&theme=dark&background=000000&border=000000&stroke=F4C430&ring=F4C430&fire=F4C430&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=F4C430&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 
 </div>
 
